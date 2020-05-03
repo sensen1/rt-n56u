@@ -1,4 +1,4 @@
-name: Build k2 nano 4.0driver
+name: Build k2 4.0driver
 
 on: 
   release:
